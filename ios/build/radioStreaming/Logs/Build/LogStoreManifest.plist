@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>639526D3-D55D-4C8E-9C81-E7F37A0082E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>639526D3-D55D-4C8E-9C81-E7F37A0082E1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>radioStreaming project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>radioStreaming</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace radioStreaming with scheme radioStreaming and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590094718.28766894</real>
+			<key>timeStoppedRecording</key>
+			<real>590094719.83285904</real>
+			<key>title</key>
+			<string>Building workspace radioStreaming with scheme radioStreaming and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>639526D3-D55D-4C8E-9C81-E7F37A0082E1</string>
+		</dict>
+		<key>FD3C76B5-01B8-4F15-A2AF-3939D47EB87F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD3C76B5-01B8-4F15-A2AF-3939D47EB87F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>radioStreaming project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>radioStreaming</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace radioStreaming with scheme radioStreaming and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>595481493.63538599</real>
+			<key>timeStoppedRecording</key>
+			<real>595481523.10706103</real>
+			<key>title</key>
+			<string>Building workspace radioStreaming with scheme radioStreaming and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FD3C76B5-01B8-4F15-A2AF-3939D47EB87F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
